@@ -1,3 +1,3 @@
 # ProofOfConcepts
 
-This repository contains various prof of concepts for personal use. 
+This repository contains various proof of concepts for personal use. 
