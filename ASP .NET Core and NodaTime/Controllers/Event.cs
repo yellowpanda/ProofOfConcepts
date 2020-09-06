@@ -1,6 +1,6 @@
 ﻿using NodaTime;
 
-namespace AspNodaTimes.Controllers
+namespace AspNodaTime.Controllers
 {
     public class Event
     {

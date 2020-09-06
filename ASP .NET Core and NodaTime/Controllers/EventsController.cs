@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using NodaTime;
 
-namespace AspNodaTimes.Controllers
+namespace AspNodaTime.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using NodaTime;
 using NodaTime.Serialization.SystemTextJson;
 
-namespace AspNodaTimes
+namespace AspNodaTime
 {
     public class Startup
     {

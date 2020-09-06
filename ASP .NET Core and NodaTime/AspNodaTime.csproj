@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>AspNodaTimes</AssemblyName>
-    <RootNamespace>AspNodaTimes</RootNamespace>
+    <AssemblyName>AspNodaTime</AssemblyName>
+    <RootNamespace>AspNodaTime</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
